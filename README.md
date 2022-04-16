@@ -1,21 +1,16 @@
-### Hi there 👋
+# Hey There
 
+Hi so I am Mohak Jain currently studying in high school and learning programming as a hobby. I wish to become a software engineer one day.
+### 📚 Currently Learning
+So I am currently learning **Unity Game Engine with C#** 
+
+___
+
+### 📈 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohakdev&show_icons=true&theme=react)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohakdev&layout=compact&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-I am Mohak Jain from India
-<!--
-**mohakdev/mohakdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+### 📫 SOCIAL
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://radiantgames.itch.io/)
