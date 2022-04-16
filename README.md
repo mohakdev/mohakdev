@@ -7,7 +7,7 @@ ___
 So I am currently learning **Unity Game Engine with C#** You can find all the games I made in **Itch.io** (Link below).
 ___
 
-### Frameworks and Technologies I know
+### 💾 Frameworks and Technologies I know
 ✅ HTML , CSS , JAVASCRIPT
 
 ✅ Python 
