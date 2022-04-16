@@ -1,8 +1,16 @@
 # Hey There
 
 Hi so I am Mohak Jain currently studying in high school and learning programming as a hobby. I wish to become a software engineer one day.
+___
+
 ### 📚 Currently Learning
-So I am currently learning **Unity Game Engine with C#** 
+So I am currently learning **Unity Game Engine with C#** You can find all the games i made in **Itch.io** (Link below).
+___
+
+### Frameworks and Technologies I know
+- [x] HTML , CSS , JAVASCRIPT
+- [x] Python 
+- [x] Android Development
 
 ___
 
