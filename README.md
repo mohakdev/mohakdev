@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohakdev&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohakdev&show_icons=true&theme=react)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohakdev&layout=compact&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohakdev&layout=compact&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 I am Mohak Jain from India
 <!--
