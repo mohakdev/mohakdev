@@ -8,7 +8,6 @@ ___
 - **C#** With **Unity Game Engine**
 - **Android Development** with **Java**
 - Python
-- HTML, CSS, Javascript 
 ___
 
 ### 💾 Top Languages I use
