@@ -1,10 +1,14 @@
-# 👋 Hey There!
+<h1 align="center">Hi There 👋</h1>
 
-Hi so I am **Mohak Jain** currently studying in high school and learning **programming** as a hobby. I wish to become a **Software engineer** one day.
+I am **Mohak Jain** currently studying in high school and learning **Programming**. I wish to become a **Software Engineer** one day.
 ___
 
-### 📚 Currently Learning
-So I am currently learning **Unity Game Engine with C#** You can find all the games I made in **Itch.io** (Link below).
+### 📚 Tech Stack
+
+- **C#** With **Unity Game Engine**
+- **Android Development** with **Java**
+- Python
+- HTML, CSS, Javascript 
 ___
 
 ### 💾 Top Languages I use
@@ -21,4 +25,4 @@ ___
 ### 📫 SOCIAL
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://radiantgames.itch.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=mohakjain55055@gmail.com)
-[![Twitter](https://img.shields.io/badge/RadiantGames2-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/RadiantGames2)
+[![Twitter](https://img.shields.io/badge/mohakjain55-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mohakjain55)
