@@ -6,6 +6,7 @@ ___
 ### 📚 Tech Stack
 
 - **C#** With **Unity Game Engine**
+- HTML, CSS and Javascript
 - **Android Development** with **Java**
 - Python
 ___
