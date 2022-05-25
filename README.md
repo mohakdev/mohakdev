@@ -7,7 +7,7 @@ ___
 
 - **C#** With **Unity Game Engine**
 - HTML, CSS and Javascript
-- **Android Development** with **Java**
+- **Android Development** with **Xamarin**
 - Python
 ___
 
