@@ -9,11 +9,6 @@ ___
 - HTML, CSS and Javascript
 - **Android Development** with **Xamarin**
 - Python
-___
-
-### 💾 Top Languages I use
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohakdev&layout=compact&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ___
 
