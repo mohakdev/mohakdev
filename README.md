@@ -12,9 +12,12 @@ ___
 
 ___
 
+### 💻Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohakdev&layout=compact&theme=react)
+___
+
 ### 📈 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohakdev&show_icons=true&theme=react)
-
 ___
 
 ### 📫 SOCIAL
