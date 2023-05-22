@@ -18,7 +18,7 @@ ___
 ___
 
 ### 📈 Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohakdev&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohakdev&theme=react)
 ___
 
 ### 📫 SOCIAL
