@@ -1,6 +1,6 @@
 <h1 align="center">Hi There 👋</h1>
 
-I am **Mohak Jain** currently studying in high school and learning **Programming**. I wish to become a **Software Developer** one day.
+I am **Mohak Jain** currently studying in high school and learning **Programming**. I am pursuing a career **Software Development**.
 ___
 
 ### 📚 Tech Stack
