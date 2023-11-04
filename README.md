@@ -7,7 +7,10 @@ ___
 
 - **Game Development** with **C#** using **Unity Game Engine** 
 - HTML, CSS and Javascript
-- **Android Development** with **Android Studio**
+- Node js
+- React
+- Bootstrap
+- Java
 - Python
 - Making Roblox games with **Lua**
 
