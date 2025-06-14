@@ -4,12 +4,8 @@ I am **Mohak Jain** currently studying in high school and learning **Programming
 ___
 
 ### 📚 Tech Stack
-
+- MERN Stack
 - **Game Development** with **C#** using **Unity Game Engine** 
-- HTML, CSS and Javascript
-- Node js
-- React
-- Bootstrap
 - Java
 - Python
 - Making Roblox games with **Lua**
