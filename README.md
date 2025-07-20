@@ -4,17 +4,7 @@ ___
 Hi There,
 My name is Mohak Jain. I am a 18 year old student based in India and I am pursuing a career in Computer Science. I started Programming back in 2018 and since then I became very passionate about Software Development. If you have a project or collaboration in mind, I'm always open to new opportunities.
 ## 🎯 Featured Projects
-
 <div align="center">
-
-| Project                                                                        | Description                               | Tech Stack                     |
-| ------------------------------------------------------------------------------ | ----------------------------------------- | ------------------------------ |
-| 🎉 **[After Party](https://github.com/mohakdev/after-party)**                  | A Ticket Booking Platform for events      | MERN Stack                     |
-| 💵 **[Expense Tracker](https://github.com/mohakdev/expense-app)**              | A expense tracker android app             | React Native, TypeScript       |
-| 🎮 **[Rollerball](https://github.com/mohakdev/Rollerball)**                    | Hyper-casual android mobile game          | C# in Unity Engine             |
-
-</div>
-<div>
 <a href="https://github.com/mohakdev/after-party"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohakdev&repo=after-party&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="after party"></a>
 <a href="https://github.com/mohakdev/expense-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohakdev&repo=expense-app&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="expense tracker"></a>
 <a href="https://github.com/mohakdev/Rollerball"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohakdev&repo=Rollerball&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="rollerball"></a>
