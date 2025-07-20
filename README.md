@@ -1,5 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Warp&size=30&pause=1000&center=true&width=800&lines=Software+Engineer;Full-Stack+Developer;Game+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Warp&size=30&pause=1000&center=true&width=800&lines=Full-Stack+Developer;Software+Engineer;Game+Developer)](https://git.io/typing-svg)
 ___
+## 🚀 About Me
+Hi There,
+My name is Mohak Jain. I am a 18 year old student based in India and I am pursuing a career in Computer Science. I started Programming back in 2018 and since then I became very passionate about Software Development. If you have a project or collaboration in mind, I'm always open to new opportunities.
 ## 🎯 Featured Projects
 
 <div align="center">
@@ -11,14 +14,17 @@ ___
 | 🎮 **[Rollerball](https://github.com/mohakdev/Rollerball)**                    | Hyper-casual android mobile game          | C# in Unity Engine             |
 
 </div>
-___
+<div>
+<a href="https://github.com/mohakdev/after-party"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohakdev&repo=after-party&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="after party"></a>
+<a href="https://github.com/mohakdev/expense-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohakdev&repo=expense-app&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="expense tracker"></a>
+<a href="https://github.com/mohakdev/Rollerball"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohakdev&repo=Rollerball&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="rollerball"></a>
+</div>
 
-### 💻Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohakdev&layout=donut&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 ___
+### 📈Github Analytics
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohakdev&theme=react&bg_color=00000000&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohakdev&layout=donut&theme=react&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📈 Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohakdev&theme=react)
 ___
 
 ### 📫 SOCIAL
