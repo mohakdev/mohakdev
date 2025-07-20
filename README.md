@@ -1,13 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Warp&size=24&pause=1000&center=true&width=900&lines=Full-Stack+Developer;Software+Engineer;Game+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Warp&size=30&pause=1000&center=true&width=800&lines=Software+Engineer;Full-Stack+Developer;Game+Developer)](https://git.io/typing-svg)
 ___
+## 🎯 Featured Projects
 
-### 📚 Tech Stack
-- MERN Stack
-- **Game Development** with **C#** using **Unity Game Engine** 
-- Java
-- Python
-- Making Roblox games with **Lua**
+<div align="center">
 
+| Project                                                                        | Description                               | Tech Stack                     |
+| ------------------------------------------------------------------------------ | ----------------------------------------- | ------------------------------ |
+| 🎉 **[After Party](https://github.com/mohakdev/after-party)**                  | A Ticket Booking Platform for events      | MERN Stack                     |
+| 💵 **[Expense Tracker](https://github.com/mohakdev/expense-app)**              | A expense tracker android app             | React Native, TypeScript       |
+| 🎮 **[Rollerball](https://github.com/mohakdev/Rollerball)**                    | Hyper-casual android mobile game          | C# in Unity Engine             |
+
+</div>
 ___
 
 ### 💻Top Languages
