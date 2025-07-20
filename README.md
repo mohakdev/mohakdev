@@ -1,6 +1,6 @@
 <h1 align="center">Hi There 👋</h1>
 
-I am **Mohak Jain** currently studying in high school and learning **Programming**. I am going to pursue a career **Software Development**.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Warp&size=24&pause=1000&center=true&width=435&lines=Full-Stack+Developer;Software+Engineer;Game+Developer)](https://git.io/typing-svg)
 ___
 
 ### 📚 Tech Stack
