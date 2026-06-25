@@ -6,7 +6,7 @@ My name is Mohak Jain. I am a 18 year old student based in India and I am pursui
 ## 🎯 Featured Projects
 <div align="center">
 <a href="https://github.com/mohakdev/ironqueue"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohakdev&repo=ironqueue&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="Iron Queue"></a>
-<a href="https://github.com/mohakdev/cravemate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohakdev&repo=cravemate&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="campus_crave"></a>
+<a href="https://github.com/mohakdev/cravemate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohakdev&repo=cravemate&theme=react&hide_border=true&icon_color=F8D866&show_icons=true" alt="campus_crave"></a>
 <a href="https://github.com/mohakdev/Rollerball"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohakdev&repo=Rollerball&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="rollerball"></a>
 </div>
 
