@@ -13,7 +13,7 @@ My name is Mohak Jain. I am a 18 year old student based in India and I am pursui
 ___
 ### 📈Github Analytics
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohakdev&theme=react&bg_color=00000000&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohakdev&layout=donut&theme=react&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohakdev&layout=donut&theme=react&bg_color=00000000&exclude_repo=VR-Shooter&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ___
 
